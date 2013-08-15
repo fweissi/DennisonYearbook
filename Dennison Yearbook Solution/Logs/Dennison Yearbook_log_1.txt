@@ -1,0 +1,892 @@
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-05 18:14:19 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-05 18:14:19 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-05 18:14:19 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 512 ms)
+2013-08-07 11:37:52 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-07 11:37:53 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-07 11:37:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-07 11:37:54 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-07 11:37:54 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-07 11:37:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-07 11:37:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-07 11:37:55 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-07 11:38:05 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-07 11:38:05 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-07 11:38:05 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 274 ms)
+2013-08-07 11:44:16 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-07 11:44:17 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-07 11:44:18 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-07 11:44:18 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-07 11:44:18 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-07 11:44:18 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-07 11:44:18 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-07 11:44:19 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-07 11:44:21 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-07 11:44:21 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-07 11:44:21 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-07 11:44:21 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-07 11:44:21 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-07 11:44:21 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-07 11:44:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-07 11:44:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-07 11:44:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-07 11:44:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-07 11:44:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-07 11:44:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-07 11:44:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-07 11:44:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-07 11:44:22 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-07 11:44:22 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 257 ms)
+2013-08-07 11:47:47 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #29955, task name is HTTP connection handler
+2013-08-07 11:47:47 [com.wakanda-software.HTTP] ERROR - [500] , task #29955, task name is HTTP connection handler
+2013-08-07 11:51:33 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #28419, task name is HTTP connection handler
+2013-08-07 11:51:33 [com.wakanda-software.HTTP] ERROR - [500] , task #28419, task name is HTTP connection handler
+2013-08-07 11:52:53 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #27907, task name is HTTP connection handler
+2013-08-07 11:52:53 [com.wakanda-software.HTTP] ERROR - [500] , task #27907, task name is HTTP connection handler
+2013-08-07 11:53:43 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-07 11:53:43 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #29955, task name is HTTP connection handler
+2013-08-07 11:53:43 [com.wakanda-software.HTTP] ERROR - [500] , task #29955, task name is HTTP connection handler
+2013-08-07 11:53:43 [com.wakanda-software.xbox] ERROR - [1]  / Broken pipe (kOTSerialOverrunErr / EPIPE)., task #29955, task name is HTTP connection handler
+2013-08-07 11:53:44 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-07 11:53:45 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-07 11:53:45 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-07 11:53:45 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-07 11:53:45 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-07 11:53:45 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-07 11:53:46 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-09 16:56:43 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-09 16:56:43 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-09 16:56:43 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-09 16:56:43 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 376 ms)
+2013-08-09 17:28:12 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-09 17:28:13 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-09 17:28:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-09 17:28:14 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-09 17:28:14 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-09 17:28:15 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-09 17:28:15 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-09 17:28:15 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-09 17:28:29 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-09 17:28:29 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-09 17:28:29 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 444 ms)
+2013-08-09 17:29:27 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-09 17:29:28 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-09 17:29:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-09 17:29:29 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-09 17:29:29 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-09 17:29:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-09 17:29:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-09 17:29:30 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-09 17:29:32 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-09 17:29:32 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-09 17:29:32 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-09 17:29:32 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 340 ms)
+2013-08-09 17:34:29 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-09 17:34:30 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-09 17:34:31 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-09 17:34:31 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-09 17:34:31 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-09 17:34:32 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-09 17:34:32 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-09 17:34:32 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-09 17:34:34 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-09 17:34:34 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-09 17:34:34 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-09 17:34:34 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-09 17:34:35 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-09 17:34:35 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-09 17:34:35 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 293 ms)
+2013-08-09 17:37:06 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-09 17:37:07 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-09 17:37:08 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-09 17:37:08 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-09 17:37:08 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-09 17:37:09 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-09 17:37:09 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-09 17:37:09 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-09 17:37:12 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-09 17:37:12 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-09 17:37:12 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-09 17:37:12 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 331 ms)
+2013-08-09 17:39:38 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-09 17:39:39 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-09 17:39:40 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-09 17:39:40 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-09 17:39:40 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-09 17:39:41 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-09 17:39:41 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-09 17:39:41 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-09 17:39:45 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-09 17:39:45 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-09 17:39:45 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-09 17:39:45 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-09 17:39:45 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-09 17:39:45 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-09 17:39:45 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-09 17:39:45 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-09 17:39:45 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-09 17:39:46 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-09 17:39:46 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-09 17:39:46 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-09 17:39:46 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-09 17:39:46 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-09 17:39:46 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-09 17:39:46 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-09 17:39:46 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 313 ms)
+2013-08-09 17:40:12 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-09 17:40:13 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-09 17:40:15 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-09 17:40:15 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-09 17:40:15 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-09 17:40:15 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-09 17:40:15 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-09 17:40:15 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-09 17:40:18 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-09 17:40:18 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-09 17:40:18 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-09 17:40:18 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 321 ms)
+2013-08-12 09:39:47 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 09:39:48 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 09:39:49 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 09:39:49 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 09:39:49 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 09:39:50 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 09:39:50 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 09:39:50 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 09:39:55 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 09:39:55 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 09:39:55 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 09:39:55 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 09:39:55 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 09:39:55 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 09:39:55 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 09:39:55 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 09:39:55 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 09:39:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 09:39:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 09:39:56 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 09:39:56 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 09:39:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 09:39:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 09:39:56 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 09:39:56 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 329 ms)
+2013-08-12 09:46:03 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 09:46:04 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 09:46:05 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 09:46:05 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 09:46:05 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 09:46:06 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 09:46:06 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 09:46:06 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 09:46:08 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 09:46:08 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 09:46:09 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 09:46:09 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 09:46:09 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 322 ms)
+2013-08-12 09:46:12 [com.wakanda-software.Dennison Yearbook.ServerAdmin.iasv] ERROR - [1068] Cannot find JavaScript language context, task #26627, task name is HTTP connection handler
+2013-08-12 09:46:12 [com.wakanda-software.HTTP] ERROR - [500] , task #26627, task name is HTTP connection handler
+2013-08-12 09:46:29 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 09:46:30 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 09:46:31 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 09:46:31 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 09:46:31 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 09:46:31 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 09:46:31 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 09:46:32 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 10:04:53 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 10:04:53 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 10:04:53 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 10:04:53 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 10:04:53 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 10:04:53 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 10:04:53 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 10:04:53 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 10:04:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 10:04:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 10:04:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 10:04:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 10:04:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 10:04:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 10:04:54 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 10:04:54 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 348 ms)
+2013-08-12 10:11:50 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 10:11:51 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 10:11:53 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 10:11:53 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 10:11:53 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 10:11:53 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 10:11:53 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 10:11:53 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 10:11:56 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 10:11:56 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 10:11:56 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 10:11:56 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 345 ms)
+2013-08-12 10:12:00 [com.wakanda-software.Dennison Yearbook.ServerAdmin.iasv] ERROR - [1068] Cannot find JavaScript language context, task #26627, task name is HTTP connection handler
+2013-08-12 10:12:00 [com.wakanda-software.HTTP] ERROR - [500] , task #26627, task name is HTTP connection handler
+2013-08-12 10:13:26 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 10:13:28 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 10:13:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 10:13:29 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 10:13:29 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 10:13:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 10:13:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 10:13:30 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 10:13:32 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 10:13:32 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 10:13:32 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 10:13:32 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 10:13:32 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 10:13:32 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 10:13:32 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 10:13:33 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 10:13:33 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 10:13:33 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 10:13:33 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 10:13:33 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 10:13:33 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 10:13:33 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 10:13:33 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 10:13:33 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 10:13:33 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 306 ms)
+2013-08-12 11:48:01 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 11:48:02 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 11:48:03 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 11:48:03 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 11:48:03 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 11:48:03 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 11:48:03 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 11:48:04 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 11:48:14 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 11:48:14 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 11:48:14 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 11:48:14 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 342 ms)
+2013-08-12 11:48:59 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 11:49:01 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 11:49:02 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 11:49:02 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 11:49:02 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 11:49:02 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 11:49:02 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 11:49:02 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 11:49:06 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 11:49:06 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 11:49:06 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 11:49:06 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 11:49:06 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 11:49:06 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 11:49:06 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 11:49:07 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 11:49:07 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 11:49:07 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 11:49:07 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 11:49:07 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 11:49:07 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 11:49:07 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 11:49:07 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 11:49:07 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 11:49:07 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 341 ms)
+2013-08-12 12:39:55 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 12:39:56 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 12:39:57 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 12:39:57 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 12:39:57 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 12:39:57 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 12:39:57 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 12:39:58 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 12:57:59 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 12:57:59 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 12:57:59 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 276 ms)
+2013-08-12 13:33:07 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 13:33:08 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 13:33:09 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 13:33:09 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 13:33:09 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 13:33:10 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 13:33:10 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 13:33:10 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 13:47:02 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Documents:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 13:47:02 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 13:47:02 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 13:47:02 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 283 ms)
+2013-08-12 15:24:47 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 15:24:48 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 15:24:49 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 15:24:49 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 15:24:49 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 15:24:50 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 15:24:50 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 15:24:50 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 15:24:59 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 15:24:59 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 15:24:59 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 322 ms)
+2013-08-12 15:35:48 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 15:35:49 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 15:35:50 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 15:35:50 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 15:35:50 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 15:35:51 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 15:35:51 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 15:35:51 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 16:29:37 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Dropbox:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 16:29:37 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 16:29:37 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 16:29:37 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 400 ms)
+2013-08-12 16:57:59 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 16:58:00 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 16:58:01 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 16:58:01 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 16:58:01 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 16:58:02 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 16:58:02 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 16:58:02 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 16:58:17 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Dropbox:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 16:58:17 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 16:58:17 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 16:58:17 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 389 ms)
+2013-08-12 16:58:20 [com.wakanda-software.Dennison Yearbook.ServerAdmin.iasv] ERROR - [1068] Cannot find JavaScript language context, task #26627, task name is HTTP connection handler
+2013-08-12 16:58:20 [com.wakanda-software.HTTP] ERROR - [500] , task #26627, task name is HTTP connection handler
+2013-08-12 16:59:45 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #29699, task name is HTTP connection handler
+2013-08-12 16:59:45 [com.wakanda-software.HTTP] ERROR - [500] , task #29699, task name is HTTP connection handler
+2013-08-12 17:05:26 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.iasv] ERROR - [1033] call to 'optimize' function failed, task #28675, task name is HTTP connection handler
+2013-08-12 17:05:26 [com.wakanda-software.HTTP] ERROR - [500] , task #28675, task name is HTTP connection handler
+2013-08-12 17:05:26 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.iasv] ERROR - [1033] call to 'optimize' function failed, task #29699, task name is HTTP connection handler
+2013-08-12 17:05:26 [com.wakanda-software.HTTP] ERROR - [500] , task #29699, task name is HTTP connection handler
+2013-08-12 17:26:29 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 17:26:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #28675, task name is HTTP connection handler
+2013-08-12 17:26:29 [com.wakanda-software.HTTP] ERROR - [500] , task #28675, task name is HTTP connection handler
+2013-08-12 17:26:30 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 17:26:31 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 17:26:31 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 17:26:31 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 17:26:31 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 17:26:31 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 17:26:32 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 17:28:22 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Dropbox:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 17:28:22 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 17:28:22 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 17:28:22 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 400 ms)
+2013-08-12 17:28:27 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 17:28:28 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 17:28:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 17:28:29 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 17:28:29 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 17:28:29 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 17:28:29 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 17:28:30 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 17:31:22 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Dropbox:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 17:31:22 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 17:31:22 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 17:31:22 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 402 ms)
+2013-08-12 17:41:23 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 17:41:24 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 17:41:25 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 17:41:25 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 17:41:25 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 17:41:26 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 17:41:26 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 17:41:26 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-12 17:43:35 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Dropbox:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-12 17:43:35 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-12 17:43:35 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-12 17:43:35 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-12 17:43:35 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-12 17:43:35 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-12 17:43:35 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-12 17:43:35 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-12 17:43:35 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-12 17:43:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-12 17:43:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-12 17:43:36 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-12 17:43:36 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-12 17:43:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-12 17:43:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-12 17:43:36 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-12 17:43:36 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 377 ms)
+2013-08-12 18:30:53 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-12 18:30:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-12 18:30:55 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-12 18:30:55 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-12 18:30:55 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-12 18:30:55 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-12 18:30:55 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-12 18:30:55 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-13 10:17:36 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Dropbox:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-13 10:17:36 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-13 10:17:36 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-13 10:17:36 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 426 ms)
+2013-08-13 10:36:53 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 6 in the "Photo" datastore class, task #28419, task name is HTTP connection handler
+2013-08-13 10:36:55 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 11 in the "Photo" datastore class, task #29955, task name is HTTP connection handler
+2013-08-13 10:36:57 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 12 in the "Photo" datastore class, task #28419, task name is HTTP connection handler
+2013-08-13 10:36:58 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 7 in the "Photo" datastore class, task #29443, task name is HTTP connection handler
+2013-08-13 10:36:59 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 8 in the "Photo" datastore class, task #28931, task name is HTTP connection handler
+2013-08-13 10:36:59 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 9 in the "Photo" datastore class, task #27907, task name is HTTP connection handler
+2013-08-13 10:37:00 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 10 in the "Photo" datastore class, task #29955, task name is HTTP connection handler
+2013-08-13 10:37:09 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 12 in the "Photo" datastore class, task #29955, task name is HTTP connection handler
+2013-08-13 10:37:10 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 12 in the "Photo" datastore class, task #29955, task name is HTTP connection handler
+2013-08-13 10:37:10 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 12 in the "Photo" datastore class, task #29955, task name is HTTP connection handler
+2013-08-13 10:37:11 [com.wakanda-software.dbmg] ERROR - [1543] Cannot load entity# 12 in the "Photo" datastore class, task #29955, task name is HTTP connection handler
+2013-08-13 10:38:40 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-13 10:38:41 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-13 10:38:42 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-13 10:38:42 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-13 10:38:42 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-13 10:38:42 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-13 10:38:42 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-13 10:38:43 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-13 10:39:14 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-13 10:39:14 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-13 10:39:14 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 389 ms)
+2013-08-13 10:41:16 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #28931, task name is HTTP connection handler
+2013-08-13 10:41:16 [com.wakanda-software.HTTP] ERROR - [500] , task #28931, task name is HTTP connection handler
+2013-08-13 11:34:31 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #28931, task name is HTTP connection handler
+2013-08-13 11:34:31 [com.wakanda-software.HTTP] ERROR - [500] , task #28931, task name is HTTP connection handler
+2013-08-13 11:34:39 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-13 11:34:40 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-13 11:34:41 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-13 11:34:41 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-13 11:34:41 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-13 11:34:42 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-13 11:34:42 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-13 11:34:42 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-13 11:37:47 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-13 11:37:47 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-13 11:37:47 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-13 11:37:47 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-13 11:37:47 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-13 11:37:47 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-13 11:37:47 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-13 11:37:47 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-13 11:37:48 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-13 11:37:48 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-13 11:37:48 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-13 11:37:48 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-13 11:37:48 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-13 11:37:48 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-13 11:37:48 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-13 11:37:48 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 888 ms)
+2013-08-13 11:44:43 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-13 11:44:43 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #27907, task name is HTTP connection handler
+2013-08-13 11:44:43 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #25859, task name is HTTP connection handler
+2013-08-13 11:44:43 [com.wakanda-software.HTTP] ERROR - [500] , task #25859, task name is HTTP connection handler
+2013-08-13 11:44:43 [com.wakanda-software.HTTP] ERROR - [500] , task #27907, task name is HTTP connection handler
+2013-08-13 11:44:44 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-13 11:44:45 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-13 11:44:45 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-13 11:44:45 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-13 11:44:46 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-13 11:44:46 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-13 11:44:47 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-13 11:45:20 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-13 11:45:20 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-13 11:45:20 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 387 ms)
+2013-08-13 12:25:52 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-13 12:25:52 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #26371, task name is HTTP connection handler
+2013-08-13 12:25:52 [com.wakanda-software.HTTP] ERROR - [500] , task #26371, task name is HTTP connection handler
+2013-08-13 12:25:53 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-13 12:25:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-13 12:25:54 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-13 12:25:54 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-13 12:25:55 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-13 12:25:55 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-13 12:25:55 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-14 00:11:03 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-14 00:11:03 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-14 00:11:03 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 1750 ms)
+2013-08-14 00:31:47 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-14 00:31:47 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #39939, task name is HTTP connection handler
+2013-08-14 00:31:47 [com.wakanda-software.HTTP] ERROR - [500] , task #39939, task name is HTTP connection handler
+2013-08-14 00:31:48 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-14 00:31:49 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-14 00:31:49 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-14 00:31:49 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-14 00:31:49 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-14 00:31:49 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-14 00:31:50 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-14 09:48:13 [com.wakanda-software] INFO - Opens the solution "Macintosh HD:Users:fweissi:Dropbox:Wakanda:Dennison Yearbook:Dennison Yearbook Solution:Dennison Yearbook.waSolution" for running
+2013-08-14 09:48:13 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-14 09:48:13 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-14 09:48:13 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-14 09:48:13 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-14 09:48:13 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-14 09:48:13 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-14 09:48:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-14 09:48:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-14 09:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-14 09:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-14 09:48:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-14 09:48:14 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-14 09:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-14 09:48:14 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-14 09:48:14 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-14 09:48:14 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 489 ms)
+2013-08-14 10:11:55 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #28675, task name is HTTP connection handler
+2013-08-14 10:11:55 [com.wakanda-software.HTTP] ERROR - [500] , task #28675, task name is HTTP connection handler
+2013-08-14 10:17:54 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-14 10:17:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #28163, task name is HTTP connection handler
+2013-08-14 10:17:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #28675, task name is HTTP connection handler
+2013-08-14 10:17:54 [com.wakanda-software.HTTP] ERROR - [500] , task #28675, task name is HTTP connection handler
+2013-08-14 10:17:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #27651, task name is HTTP connection handler
+2013-08-14 10:17:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook.JS4D] ERROR - [1] Error: The given primary key does not match the definition in the "Photo" datastore class, task #29187, task name is HTTP connection handler
+2013-08-14 10:17:54 [com.wakanda-software.HTTP] ERROR - [500] , task #28163, task name is HTTP connection handler
+2013-08-14 10:17:54 [com.wakanda-software.HTTP] ERROR - [500] , task #29187, task name is HTTP connection handler
+2013-08-14 10:17:54 [com.wakanda-software.HTTP] ERROR - [500] , task #27651, task name is HTTP connection handler
+2013-08-14 10:17:55 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-14 10:17:57 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-14 10:17:57 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-14 10:17:57 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-14 10:17:57 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-14 10:17:57 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-14 10:17:57 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-14 10:18:15 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-14 10:18:15 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-14 10:18:15 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-14 10:18:15 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-14 10:18:15 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-14 10:18:15 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-14 10:18:15 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-14 10:18:15 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-14 10:18:16 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-14 10:18:16 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-14 10:18:16 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-14 10:18:16 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-14 10:18:16 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-14 10:18:16 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-14 10:18:16 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-14 10:18:16 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 433 ms)
+2013-08-14 10:22:03 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-14 10:22:04 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-14 10:22:05 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-14 10:22:05 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-14 10:22:05 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-14 10:22:05 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-14 10:22:05 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-14 10:22:06 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-14 20:15:12 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-14 20:15:12 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-14 20:15:12 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-14 20:15:12 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-14 20:15:12 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-14 20:15:12 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-14 20:15:13 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-14 20:15:13 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-14 20:15:13 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-14 20:15:13 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-14 20:15:13 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-14 20:15:13 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-14 20:15:13 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-14 20:15:13 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-14 20:15:13 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-14 20:15:13 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 1916 ms)
+2013-08-14 20:16:29 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-14 20:16:30 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-14 20:16:33 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-14 20:16:33 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-14 20:16:33 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-14 20:16:33 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-14 20:16:33 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-14 20:16:34 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook] INFO - Users and groups directory opened
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Datastore opened
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project opened
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution opened
+2013-08-14 20:24:54 [com.wakanda-software] INFO - Starts "Dennison Yearbook" solution
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - HTTP Server started
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project started
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Executes the bootstrap file(s)
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - Bootstrap file(s) executed
+2013-08-14 20:24:54 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution started
+2013-08-14 20:24:54 [com.wakanda-software] INFO - "Dennison Yearbook" solution has been successfully opened for running (duration: 323 ms)
+2013-08-14 20:30:45 [com.wakanda-software] INFO - Stops "Dennison Yearbook" solution
+2013-08-14 20:30:46 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project stopped
+2013-08-14 20:30:47 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project stopped
+2013-08-14 20:30:47 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution stopped
+2013-08-14 20:30:47 [com.wakanda-software] INFO - Closes "Dennison Yearbook" solution
+2013-08-14 20:30:48 [com.wakanda-software.Dennison Yearbook.Dennison Yearbook] INFO - "Dennison Yearbook" project closed
+2013-08-14 20:30:48 [com.wakanda-software.Dennison Yearbook.ServerAdmin] INFO - "ServerAdmin" project closed
+2013-08-14 20:30:48 [com.wakanda-software.Dennison Yearbook] INFO - "Dennison Yearbook" solution closed

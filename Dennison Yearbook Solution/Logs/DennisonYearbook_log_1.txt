@@ -1,0 +1,16 @@
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook] INFO - Users and groups directory opened
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.DennisonYearbook] INFO - Datastore opened
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.DennisonYearbook] INFO - "DennisonYearbook" project opened
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.ServerAdmin] INFO - "ServerAdmin" project opened
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook] INFO - "DennisonYearbook" solution opened
+2013-08-14 20:32:15 [com.wakanda-software] INFO - Starts "DennisonYearbook" solution
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.ServerAdmin] INFO - HTTP Server started
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.ServerAdmin] INFO - "ServerAdmin" project started
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.DennisonYearbook] INFO - HTTP Server started
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.DennisonYearbook] INFO - "DennisonYearbook" project started
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.ServerAdmin] INFO - Executes the bootstrap file(s)
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.ServerAdmin] INFO - Bootstrap file(s) executed
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.DennisonYearbook] INFO - Executes the bootstrap file(s)
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook.DennisonYearbook] INFO - Bootstrap file(s) executed
+2013-08-14 20:32:15 [com.wakanda-software.DennisonYearbook] INFO - "DennisonYearbook" solution started
+2013-08-14 20:32:15 [com.wakanda-software] INFO - "DennisonYearbook" solution has been successfully opened for running (duration: 313 ms)
